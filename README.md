@@ -134,3 +134,6 @@ License
 OpenWPM and included code from
 [FourthParty](https://github.com/fourthparty/fourthparty) are both licenced
 under GNU GPLv3.
+
+<hr>
+<img width="40px" height="40px" src="http://datatransparencylab.org/images/small_logo-01.png"/> <i>Project Supported by the <a href="http://datatransparencylab.org">Data Transparency Lab</a></i>
