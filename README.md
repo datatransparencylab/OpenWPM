@@ -136,4 +136,6 @@ OpenWPM and included code from
 under GNU GPLv3.
 
 <hr>
-<img width="40px" height="40px" src="http://datatransparencylab.org/images/small_logo-01.png"/> <i>Project Supported by the <a href="http://datatransparencylab.org">Data Transparency Lab</a></i>
+<a href="http://datatransparencylab.org">
+<img width="240px" height="240px" src="http://datatransparencylab.github.io/images/badge.png"/>
+</a>
